@@ -1,3 +1,8 @@
+# Project Repos:
+
+Front-End: https://github.com/MurtazaTaloo/MERN_PROJECT
+Back-End: https://github.com/MurtazaTaloo/MERN_Project_backend
+
 # Purpose
 
 We are building this MERN application(online retail store) to let our client sell his products online. The client deals in Chinese herbal medicine and currently he is using facebook to run his business but they don't have an official website.
